@@ -1,7 +1,7 @@
-# 🐾 Veterinary Clinic Simulator
+# Veterinary Clinic Simulator
 A Java console application simulating a veterinary clinic that manages dogs and cats. This project demonstrates basic object-oriented programming concepts such as inheritance, polymorphism, and file I/O.
 
-## 🧱 Class Structure
+## Class Structure
 ```bash
 Vetrinary-Clinic/
 ├── Cat.java               # Represents a Cat (extends Pet)
@@ -12,6 +12,6 @@ Vetrinary-Clinic/
 ├── README.md              # Project documentation
 ```
 
-## ✨ Features
+## Features
 Add and manage Cat and Dog objects
 Store and retrieve pet information from a text file
